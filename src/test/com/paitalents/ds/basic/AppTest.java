@@ -1,4 +1,4 @@
-package ds_impl.java;
+package test.com.paitalents.ds.basic;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

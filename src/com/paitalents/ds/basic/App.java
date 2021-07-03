@@ -1,4 +1,4 @@
-package ds_impl.java;
+package com.paitalents.ds.basic;
 
 /**
  * Hello world!
